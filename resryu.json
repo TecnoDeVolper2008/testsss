@@ -1,6 +1,6 @@
 [
     {
-        "country": "Singapore",
+        "country": "Singapore Test",
         "host": "sg1.ssmjv.pw",
         "protocol": "SSL/TLS",
         "dropbear": "80,143,444",
