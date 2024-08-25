@@ -1,24 +1,26 @@
-{
-                country: "Singapore",
-                host: "sg1.ssmjv.pw",
-                protocol: "SSL/TLS",
-                dropbear: "80,143,444",
-                flag: "https://flagpedia.net/data/flags/h80/sg.png",
-                status: "online"
-            },
-            {
-                country: "United States",
-                host: "us1.ssmjv.pw",
-                protocol: "SSL/TLS",
-                dropbear: "80,143,444",
-                flag: "https://flagpedia.net/data/flags/h80/us.png",
-                status: "offline"
-            },
-            {
-                country: "Netherlands",
-                host: "nl1.ssmjv.pw",
-                protocol: "SSL/TLS",
-                dropbear: "80,143,444",
-                flag: "https://flagpedia.net/data/flags/h80/nl.png",
-                status: "online"
-            }
+[
+    {
+        "country": "Singapore",
+        "host": "sg1.ssmjv.pw",
+        "protocol": "SSL/TLS",
+        "dropbear": "80,143,444",
+        "flag": "https://flagpedia.net/data/flags/h80/sg.png",
+        "status": "online"
+    },
+    {
+        "country": "United States",
+        "host": "us1.ssmjv.pw",
+        "protocol": "SSL/TLS",
+        "dropbear": "80,143,444",
+        "flag": "https://flagpedia.net/data/flags/h80/us.png",
+        "status": "offline"
+    },
+    {
+        "country": "Netherlands",
+        "host": "nl1.ssmjv.pw",
+        "protocol": "SSL/TLS",
+        "dropbear": "80,143,444",
+        "flag": "https://flagpedia.net/data/flags/h80/nl.png",
+        "status": "online"
+    }
+]
