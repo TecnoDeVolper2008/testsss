@@ -1,6 +1,18 @@
 {
     "notifications": [
-        {"message": "Notification 1"},
-        {"message": "Notification 2"}
+        {
+            "image": "https://example.com/image1.jpg",
+            "text": "This is a notification with an image and a button.",
+            "buttons": [
+                {
+                    "text": "View",
+                    "url": "https://example.com/view"
+                }
+            ]
+        },
+        {
+            "text": "This is a notification without an image.",
+            "buttons": []
+        }
     ]
 }
