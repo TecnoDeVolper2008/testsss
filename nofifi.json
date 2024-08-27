@@ -1,32 +1,32 @@
 {
-  "notifications": [
-    {
-      "image": "https://example.com/image1.jpg",
-      "text": "This is the first notification message.",
-      "buttons": [
+    "notifications": [
         {
-          "text": "View Details",
-          "url": "https://example.com/details1"
+            "image": "https://example.com/image1.jpg",
+            "text": "This is the first notification message.",
+            "buttons": [
+                {
+                    "text": "View Details",
+                    "url": "https://example.com/details1"
+                },
+                {
+                    "text": "Dismiss",
+                    "url": "#"
+                }
+            ]
         },
         {
-          "text": "Dismiss",
-          "url": "#"
-        }
-      ]
-    },
-    {
-      "image": "https://example.com/image2.jpg",
-      "text": "This is the second notification message.",
-      "buttons": [
+            "image": "https://example.com/image2.jpg",
+            "text": "This is the second notification message.",
+            "buttons": [
+                {
+                    "text": "Learn More",
+                    "url": "https://example.com/learn-more"
+                }
+            ]
+        },
         {
-          "text": "Learn More",
-          "url": "https://example.com/learn-more"
+            "text": "This is a notification without an image or buttons.",
+            "buttons": []
         }
-      ]
-    },
-    {
-      "text": "This is a notification without an image or buttons.",
-      "buttons": []
-    }
-  ]
+    ]
 }
