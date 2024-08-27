@@ -1,18 +1,32 @@
 {
-    "notifications": [
+  "notifications": [
+    {
+      "image": "https://example.com/image1.jpg",
+      "text": "This is the first notification message.",
+      "buttons": [
         {
-            "image": "https://get.pxhere.com/photo/car-desert-vehicle-sports-car-supercar-ferrari-lamborghini-land-vehicle-automobile-make-automotive-design-luxury-vehicle-performance-car-mclaren-automotive-mclaren-mp4-12c-1277324.jpg",
-            "text": "This is a notification with an image and a button.",
-            "buttons": [
-                {
-                    "text": "View",
-                    "url": "https://get.pxhere.com/photo/car-desert-vehicle-sports-car-supercar-ferrari-lamborghini-land-vehicle-automobile-make-automotive-design-luxury-vehicle-performance-car-mclaren-automotive-mclaren-mp4-12c-1277324.jpg"
-                }
-            ]
+          "text": "View Details",
+          "url": "https://example.com/details1"
         },
         {
-            "text": "This is a notification without an image.",
-            "buttons": []
+          "text": "Dismiss",
+          "url": "#"
         }
-    ]
+      ]
+    },
+    {
+      "image": "https://example.com/image2.jpg",
+      "text": "This is the second notification message.",
+      "buttons": [
+        {
+          "text": "Learn More",
+          "url": "https://example.com/learn-more"
+        }
+      ]
+    },
+    {
+      "text": "This is a notification without an image or buttons.",
+      "buttons": []
+    }
+  ]
 }
