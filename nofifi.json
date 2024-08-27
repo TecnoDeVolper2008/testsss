@@ -1,12 +1,12 @@
 {
     "notifications": [
         {
-            "image": "https://example.com/image1.jpg",
+            "image": "https://get.pxhere.com/photo/car-desert-vehicle-sports-car-supercar-ferrari-lamborghini-land-vehicle-automobile-make-automotive-design-luxury-vehicle-performance-car-mclaren-automotive-mclaren-mp4-12c-1277324.jpg",
             "text": "This is a notification with an image and a button.",
             "buttons": [
                 {
                     "text": "View",
-                    "url": "https://example.com/view"
+                    "url": "https://get.pxhere.com/photo/car-desert-vehicle-sports-car-supercar-ferrari-lamborghini-land-vehicle-automobile-make-automotive-design-luxury-vehicle-performance-car-mclaren-automotive-mclaren-mp4-12c-1277324.jpg"
                 }
             ]
         },
