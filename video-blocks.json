@@ -9,7 +9,7 @@
             "image": "url_to_image2.jpg",
             "title": "Video Title 2",
             "caption": "This is a caption for video 2."
-        },
-        
+        }
+        // Add more video objects here
     ]
 }
