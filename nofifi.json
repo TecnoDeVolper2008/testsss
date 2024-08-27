@@ -2,16 +2,16 @@
     "notifications": [
         {
             "image": "https://example.com/image1.jpg",
-            "text": "This is a notification with an image and a button.",
+            "text": "test",
             "buttons": [
                 {
-                    "text": "View",
-                    "url": "https://example.com/view"
+                    "text": "",
+                    "url": ""
                 }
             ]
         },
         {
-            "text": "This is a notification without an image.",
+            "text": "",
             "buttons": []
         }
     ]
