@@ -2,10 +2,10 @@
     "notifications": [
         {
             "image": "https://example.com/image1.jpg",
-            "text": "This is the first notification message.",
+            "text": "This maseg for testing notification system",
             "buttons": [
                 {
-                    "text": "View Details",
+                    "text": "kawdhitha",
                     "url": "https://example.com/details1"
                 },
                 {
