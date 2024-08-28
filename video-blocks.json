@@ -1,15 +1,16 @@
 {
     "videos": [
         {
+            "id": "1",
             "image": "https://example.com/image1.jpg",
             "title": "Video Title 1",
             "caption": "Video Caption 1"
         },
         {
+            "id": "2",
             "image": "https://example.com/image2.jpg",
             "title": "Video Title 2",
             "caption": "Video Caption 2"
         }
-        // Add more video objects as needed
     ]
 }
