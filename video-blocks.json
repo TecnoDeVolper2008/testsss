@@ -1,15 +1,15 @@
 {
     "videos": [
         {
-            "image": "url_to_image1.jpg",
+            "image": "https://example.com/image1.jpg",
             "title": "Video Title 1",
-            "caption": "This is a caption for video 1."
+            "caption": "Video Caption 1"
         },
         {
-            "image": "url_to_image2.jpg",
+            "image": "https://example.com/image2.jpg",
             "title": "Video Title 2",
-            "caption": "This is a caption for video 2."
+            "caption": "Video Caption 2"
         }
-        // Add more video objects here
+        // Add more video objects as needed
     ]
 }
