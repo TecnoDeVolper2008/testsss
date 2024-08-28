@@ -2,9 +2,9 @@
     "videos": [
         {
             "id": "1",
-            "image": "https://example.com/image1.jpg",
-            "title": "Video Title 1",
-            "caption": "Video Caption 1"
+            "image": "https://img.youtube.com/vi/_802ZJYcwio/mqdefault.jpg",
+            "title": "Test",
+            "caption": "caption"
         },
         {
             "id": "2",
